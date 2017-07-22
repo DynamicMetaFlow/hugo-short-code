@@ -9,4 +9,9 @@ usage;
 `{{< embedvimeo 224893042 >}}`
 **responsive vimeo video**
 
+* embedyoutube.html  
+usage;
+`{{< embedyoutube 9AFtdrCFyd0 >}}`
+**responsive youtube video**
+
 
