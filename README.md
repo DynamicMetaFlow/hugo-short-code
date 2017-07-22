@@ -2,4 +2,4 @@
 img.html  
 usage
 `{{< img src="/img/image.jpg" >}}`
-*render a responsive image with %100 width*
+**render a responsive image with %100 width**
