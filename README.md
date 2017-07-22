@@ -14,4 +14,18 @@ usage;
 `{{< embedyoutube 9AFtdrCFyd0 >}}`
 **responsive youtube video**
 
+* gfycat.html  
+usage;
+`{{< gfycat src="WigglyBitterCirriped" >}}`
+**responsive gfycat video**
+
+* twocolumn.html  
+usage;
+`{{< twocolumn text="Lorem ipsum dolor sit amet..." >}}`
+**responsive two column paragraph**
+
+* threecolumn.html  
+usage;
+`{{< threecolumn text="Lorem ipsum dolor sit amet..." >}}`
+**responsive three column paragraph**
 
