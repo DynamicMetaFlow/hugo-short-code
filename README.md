@@ -1,4 +1,9 @@
 # my custom shortcodes for hugo
+[DEMO](https://umtksa.github.io/example.html)
+
+
+
+
 * img.html 
 **responsive image with %100 width**
 usage;
